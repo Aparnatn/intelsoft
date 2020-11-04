@@ -57,7 +57,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff; }
+  background-color: black; }
 
 [tabindex="-1"]:focus {
   outline: 0 !important; }
@@ -3796,7 +3796,8 @@ input[type="button"].btn-block {
   -webkit-box-flex: 1;
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
-  padding: 1.25rem; }
+  padding: 3rem; 
+}
 
 .card-title {
   margin-bottom: 0.75rem; }
@@ -8554,7 +8555,7 @@ h1, h2, h3, h4, h5,
   .ftco-intro .services-1.color-2 {
     background: #222ece; }
   .ftco-intro .services-1:hover {
-    background: #202bc1; }
+    background: black; }
     .ftco-intro .services-1:hover:after, .ftco-intro .services-1:hover:before {
       height: 30px;
       background: #ffa41b; }
