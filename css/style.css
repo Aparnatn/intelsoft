@@ -3754,8 +3754,8 @@ input[type="button"].btn-block {
   color: #fff; }
 
 .navbar-dark .navbar-toggler {
-  color: rgba(255, 255, 255, 0.5);
-  border-color: rgba(255, 255, 255, 0.1); }
+  color: rgb(8, 8, 8) !important;
+  border-color: rgb(5, 5, 5) !important; }
 
 .navbar-dark .navbar-toggler-icon {
   background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e"); }
@@ -8255,7 +8255,7 @@ h1, h2, h3, h4, h5,
         padding-left: 0;
         padding-right: 0;
         padding-bottom: 0;
-        color: #fff; } }
+        color: rgb(12, 12, 12); } }
   .ftco-navbar-light .navbar-nav > .nav-item .dropdown-menu {
     border: none;
     background: #fff;
@@ -8310,7 +8310,7 @@ h1, h2, h3, h4, h5,
       color: #323edd; } }
   .ftco-navbar-light .navbar-toggler {
     border: none;
-    color: rgba(255, 255, 255, 0.993) !important;
+    color: rgba(7, 7, 7, 0.993) !important;
     cursor: pointer;
     padding-right: 0;
     text-transform: uppercase;
@@ -8364,7 +8364,7 @@ h1, h2, h3, h4, h5,
         margin-left: 0 !important; } }
     .ftco-navbar-light.scrolled .navbar-toggler {
       border: none;
-      color: rgba(0, 0, 0, 0.5) !important;
+      color: rgb(0, 0, 0) !important;
       border-color: rgba(0, 0, 0, 0.5) !important;
       cursor: pointer;
       margin-right: 15px !important;
